@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tab Sweeper"
+  },
+  "extDesc": {
+    "message": "右クリック一発で不要なタブをまとめて閉じ、直前の状態にまとめて復元できます。"
+  },
+  "menuSweep": {
+    "message": "不要なタブをすべて閉じる"
+  },
+  "menuUndo": {
+    "message": "直前に閉じたタブを復元"
+  }
+}

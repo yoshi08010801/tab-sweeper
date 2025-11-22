@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tab Sweeper"
+  },
+  "extDesc": {
+    "message": "Right-click to close unnecessary tabs in bulk and restore them with one-step undo."
+  },
+  "menuSweep": {
+    "message": "Close all unnecessary tabs"
+  },
+  "menuUndo": {
+    "message": "Restore last closed tabs"
+  }
+}
